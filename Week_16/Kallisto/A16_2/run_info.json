@@ -1,0 +1,9 @@
+{
+	"n_targets": 105129,
+	"n_bootstraps": 1000,
+	"n_processed": 17378610,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Tue May  9 06:06:49 2017",
+	"call": "../bin/kallisto_linux-v0.43.1/kallisto quant -i ./20170507/Kallisto/Index -o ./20170507/Kallisto/A16_2 -b 1000 --bias --rf-stranded -t 20 ./Raw-Reads/A16_2_R1.fastq ./Raw-Reads/A16_2_R2.fastq"
+}

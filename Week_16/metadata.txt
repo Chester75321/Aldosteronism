@@ -1,0 +1,7 @@
+sample	condition
+A16_1	Case
+A16_2	Case
+A16_3	Case
+C16_1	Control
+C16_2	Control
+C16_3	Control

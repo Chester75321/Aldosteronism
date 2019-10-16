@@ -1,9 +1,9 @@
 {
-	"n_targets": 105129,
+	"n_targets": 42394,
 	"n_bootstraps": 1000,
 	"n_processed": 18369014,
-	"kallisto_version": "0.43.1",
+	"kallisto_version": "0.43.0",
 	"index_version": 10,
-	"start_time": "Tue May  9 04:54:24 2017",
-	"call": "../bin/kallisto_linux-v0.43.1/kallisto quant -i ./20170507/Kallisto/Index -o ./20170507/Kallisto/A16_1 -b 1000 --bias --rf-stranded -t 20 ./Raw-Reads/A16_1_R1.fastq ./Raw-Reads/A16_1_R2.fastq"
+	"start_time": "Thu Jul 18 05:57:10 2019",
+	"call": "kallisto quant -i ./UCSC/refMrna.kallisto.index -o ./20190717/Kallisto_UCSC/A16_1 -b 1000 --bias --rf-stranded -t 20 /home/nas210/Mouse-28/A16_1_R1.fastq /home/nas210/Mouse-28/A16_1_R2.fastq"
 }

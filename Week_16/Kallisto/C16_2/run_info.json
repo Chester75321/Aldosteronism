@@ -1,9 +1,9 @@
 {
 	"n_targets": 42394,
-	"n_bootstraps": 1000,
+	"n_bootstraps": 5,
 	"n_processed": 17230503,
 	"kallisto_version": "0.43.0",
 	"index_version": 10,
-	"start_time": "Thu Jul 18 07:18:21 2019",
-	"call": "kallisto quant -i ./UCSC/refMrna.kallisto.index -o ./20190717/Kallisto_UCSC/C16_2 -b 1000 --bias --rf-stranded -t 20 /home/nas210/Mouse-28/C16_2_R1.fastq /home/nas210/Mouse-28/C16_2_R2.fastq"
+	"start_time": "Wed Oct 16 20:10:30 2019",
+	"call": "kallisto quant -i ./UCSC/refMrna.kallisto.index -o ./20190717/Kallisto_UCSC/C16_2/B5 -b 5 --bias --rf-stranded -t 20 /home/nas210/Mouse-28/C16_2_R1.fastq /home/nas210/Mouse-28/C16_2_R2.fastq"
 }
